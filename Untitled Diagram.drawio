@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T15:44:24.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wgsuottb04YJws5AH1pp" version="15.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-17T16:16:48.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jJstXMEyw21w1VMvP0t1" version="15.3.2" type="github" pages="3">
   <diagram id="q81Tqc-Qohcfp0MkGZEg" name="local-dr-rpo=0">
     <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="HIZQCUx6aUcxExQgt6VD-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="VpI5HfqAKOcKjX_dPZPz-1" vertex="1">
           <mxGeometry x="300" y="350" width="520" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VpI5HfqAKOcKjX_dPZPz-2" value="VMFS ccreated on Vplex Distrubed Raid Volume" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.datastore;aspect=fixed;" parent="VpI5HfqAKOcKjX_dPZPz-1" vertex="1">
+        <mxCell id="VpI5HfqAKOcKjX_dPZPz-2" value="VMFS created on Vplex Distrubed Raid Volume" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.datastore;aspect=fixed;" parent="VpI5HfqAKOcKjX_dPZPz-1" vertex="1">
           <mxGeometry x="535" y="362" width="50" height="68.16" as="geometry" />
         </mxCell>
         <mxCell id="Y1qZWMzOsRfK0Y3PAqcP-0" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;labelBackgroundColor=#000000;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="VpI5HfqAKOcKjX_dPZPz-1">
@@ -188,6 +188,23 @@
         </mxCell>
         <mxCell id="RJeImOQRGq4Q7RLdlX5b-0" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;labelBackgroundColor=#000000;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="UE_b0t7WZoLxQnkfMr6e-1">
           <mxGeometry x="525.5" y="257" width="83" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-PEFBigU6c81RPPbbTYY" name="Page-3">
+    <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="iAP7C5z16xHCbL8eVtAN-0" />
+        <mxCell id="iAP7C5z16xHCbL8eVtAN-1" parent="iAP7C5z16xHCbL8eVtAN-0" />
+        <mxCell id="EZyXMwLqOtLo8gDWft1J-3" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;" vertex="1" parent="iAP7C5z16xHCbL8eVtAN-1">
+          <mxGeometry x="160" y="490" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZyXMwLqOtLo8gDWft1J-2" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;" vertex="1" parent="iAP7C5z16xHCbL8eVtAN-1">
+          <mxGeometry x="160" y="450" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="EZyXMwLqOtLo8gDWft1J-1" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;" vertex="1" parent="iAP7C5z16xHCbL8eVtAN-1">
+          <mxGeometry x="160" y="374" width="110" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
