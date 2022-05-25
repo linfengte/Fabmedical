@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T16:16:48.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="jJstXMEyw21w1VMvP0t1" version="15.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-25T08:36:38.866Z" agent="5.0 (Windows)" etag="LCffmUXl4rug2QHdKARX" version="15.7.4" type="github" pages="4">
   <diagram id="q81Tqc-Qohcfp0MkGZEg" name="local-dr-rpo=0">
-    <mxGraphModel dx="2942" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="871" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VpI5HfqAKOcKjX_dPZPz-0" />
         <mxCell id="VpI5HfqAKOcKjX_dPZPz-1" parent="VpI5HfqAKOcKjX_dPZPz-0" />
@@ -94,7 +94,7 @@
         <mxCell id="VpI5HfqAKOcKjX_dPZPz-2" value="VMFS created on Vplex Distrubed Raid Volume" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.datastore;aspect=fixed;" parent="VpI5HfqAKOcKjX_dPZPz-1" vertex="1">
           <mxGeometry x="535" y="362" width="50" height="68.16" as="geometry" />
         </mxCell>
-        <mxCell id="Y1qZWMzOsRfK0Y3PAqcP-0" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;labelBackgroundColor=#000000;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="VpI5HfqAKOcKjX_dPZPz-1">
+        <mxCell id="Y1qZWMzOsRfK0Y3PAqcP-0" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;labelBackgroundColor=#000000;fontSize=16;fontColor=#FFFFFF;" parent="VpI5HfqAKOcKjX_dPZPz-1" vertex="1">
           <mxGeometry x="737" y="253" width="83" height="84" as="geometry" />
         </mxCell>
       </root>
@@ -205,6 +205,101 @@
         </mxCell>
         <mxCell id="EZyXMwLqOtLo8gDWft1J-1" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vmware_host;" vertex="1" parent="iAP7C5z16xHCbL8eVtAN-1">
           <mxGeometry x="160" y="374" width="110" height="98" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qsBmEmYEuFIF0AWk5wxK" name="Page-4">
+    <mxGraphModel dx="1962" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="xmYRlpEbs0L17trqqf33-0" />
+        <mxCell id="xmYRlpEbs0L17trqqf33-1" parent="xmYRlpEbs0L17trqqf33-0" />
+        <mxCell id="xmYRlpEbs0L17trqqf33-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="159" y="488" width="550" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-52" value="網路磁碟機" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="270" y="668" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="260" y="673" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-54" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#FF0000;fontSize=14;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="535.25" y="673" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-55" value="&lt;div&gt;資料複寫&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="545.25" y="668" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="159" y="170" width="550" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="xmYRlpEbs0L17trqqf33-1" source="xmYRlpEbs0L17trqqf33-2" target="xmYRlpEbs0L17trqqf33-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-2" value="&lt;div&gt;薪酬組專用NAS&lt;/div&gt;&lt;div&gt;(金控大樓機房)&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="420" y="530" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xmYRlpEbs0L17trqqf33-1" source="xmYRlpEbs0L17trqqf33-3" target="xmYRlpEbs0L17trqqf33-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-3" value="薪酬組同仁電腦&lt;br&gt;(金控大樓)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="190" y="530" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-4" value="(防火牆)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="310" y="530" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-12" value="&lt;div&gt;薪酬組備援NAS&lt;br&gt;(板橋異地機房)&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="640" y="530" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-5" value="(防火牆)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="530" y="530" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="260" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-20" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#FF0000;fontSize=14;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="480" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="xmYRlpEbs0L17trqqf33-1" source="xmYRlpEbs0L17trqqf33-28" target="xmYRlpEbs0L17trqqf33-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-28" value="&lt;div&gt;薪酬組專用NAS&lt;/div&gt;&lt;div&gt;(金控大樓機房)&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="420" y="220" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xmYRlpEbs0L17trqqf33-1" source="xmYRlpEbs0L17trqqf33-30" target="xmYRlpEbs0L17trqqf33-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-30" value="薪酬組同仁電腦&lt;br&gt;(金控大樓)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="190" y="220" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-31" value="(防火牆)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/firewall.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="310" y="220" width="30.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-32" value="&lt;div&gt;薪酬組備援NAS&lt;br&gt;(金控大樓機房)&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="640" y="220" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="260" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-36" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#FF0000;fontSize=14;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="535.25" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-45" value="網路磁碟機" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="270" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-46" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="260" y="355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-47" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#FF0000;fontSize=14;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="535.25" y="355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-48" value="&lt;div&gt;資料複寫&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="545.25" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-57" value="After" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="618" y="468" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmYRlpEbs0L17trqqf33-58" value="Before" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;fontColor=#FFFFFF;fillColor=#000000;" vertex="1" parent="xmYRlpEbs0L17trqqf33-1">
+          <mxGeometry x="618" y="150" width="91" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
