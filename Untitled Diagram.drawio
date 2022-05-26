@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:11:23.654Z" agent="5.0 (Windows)" etag="yxoVoZm8brcfreyLDz96" version="15.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:58:59.767Z" agent="5.0 (Windows)" etag="MK-RuUn_3I5DZwmL9ZV1" version="15.7.4" type="github" pages="6">
   <diagram id="q81Tqc-Qohcfp0MkGZEg" name="local-dr-rpo=0">
     <mxGraphModel dx="871" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qsBmEmYEuFIF0AWk5wxK" name="Page-4">
-    <mxGraphModel dx="2803" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="qsBmEmYEuFIF0AWk5wxK" name="薪酬組nas">
+    <mxGraphModel dx="2189" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="xmYRlpEbs0L17trqqf33-0" />
         <mxCell id="xmYRlpEbs0L17trqqf33-1" parent="xmYRlpEbs0L17trqqf33-0" />
@@ -305,7 +305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CObw9dQd1ElEUC96T5fn" name="Page-5">
-    <mxGraphModel dx="2799" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="w7N2wVOocHKXcuM4vQ3a-0" />
         <mxCell id="w7N2wVOocHKXcuM4vQ3a-1" parent="w7N2wVOocHKXcuM4vQ3a-0" />
@@ -405,11 +405,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pob5ogfkpeY2vljd8nZu" name="Page-6">
-    <mxGraphModel dx="2305" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="pob5ogfkpeY2vljd8nZu" name="ehrdb3">
+    <mxGraphModel dx="1802" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="eb4b9UGEnmMUjg8EXmwD-0" />
         <mxCell id="eb4b9UGEnmMUjg8EXmwD-1" parent="eb4b9UGEnmMUjg8EXmwD-0" />
+        <mxCell id="-4Ww9zwnVNfFN8ONrszs-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;fillColor=#FFE6CC;strokeColor=none;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
+          <mxGeometry x="21.53" y="360" width="1117.47" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="YeuFWdlsAtts5w7LSBy--5" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="eb4b9UGEnmMUjg8EXmwD-1">
           <mxGeometry x="652.53" y="471" width="160.98" height="40" as="geometry" />
         </mxCell>
@@ -564,12 +567,12 @@
           <mxGeometry x="585.53" y="636" width="201" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4Ww9zwnVNfFN8ONrszs-12" value="Before" style="shape=offPageConnector;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=19;fontColor=#FFFFFF;strokeColor=none;fillColor=#0000FF;align=center;direction=west;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
-          <mxGeometry x="1060" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="316" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-4Ww9zwnVNfFN8ONrszs-13" value="After" style="shape=offPageConnector;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=19;fontColor=#FFFFFF;strokeColor=none;fillColor=#FF0000;align=center;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
-          <mxGeometry x="1060" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="1060" y="361" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I4J9ttc3EgTH3PWreAWF-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=#B3B3B3;" edge="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
+        <mxCell id="I4J9ttc3EgTH3PWreAWF-0" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=7;fillColor=#B3B3B3;" edge="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="21.53" y="360" as="sourcePoint" />
             <mxPoint x="1140" y="360" as="targetPoint" />
@@ -577,9 +580,6 @@
         </mxCell>
         <mxCell id="-4Ww9zwnVNfFN8ONrszs-14" value="ehrdb3" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#FFFFFF;strokeColor=#000000;fillColor=#FF0000;align=center;aspect=fixed;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
           <mxGeometry x="712.6899999999999" y="440" width="46.66" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="-4Ww9zwnVNfFN8ONrszs-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#FFFFFF;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
-          <mxGeometry x="650" y="552" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4Ww9zwnVNfFN8ONrszs-16" value="ehrdb3&amp;nbsp; (複本)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="eb4b9UGEnmMUjg8EXmwD-1">
           <mxGeometry x="978.53" y="438" width="85.47" height="30" as="geometry" />
