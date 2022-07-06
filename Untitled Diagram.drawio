@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:49:59.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="f6k4j2RQkGF9hbz_S96X" version="20.0.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-06T08:12:11.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="kkNOZSotpgl431jqPOqz" version="20.0.4" type="github" pages="8">
   <diagram id="q81Tqc-Qohcfp0MkGZEg" name="local-dr-rpo=0">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -310,46 +310,46 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ng30nbXUzSkcxQZglPIi-1" value="中和" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="310" height="340" as="geometry" />
+          <mxGeometry x="50" y="444" width="310" height="340" as="geometry" />
         </mxCell>
         <mxCell id="mlTwkhCANeE2EbE8x7iB-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage20&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;10.86.11.119&lt;br&gt;(10.86.11.120\10.86.11.121\&amp;nbsp;10.86.11.122)&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="137.04999999999995" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="147.04999999999995" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iRwkazwHxVmJ46z4QH42-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRwkazwHxVmJ46z4QH42-1" target="mlTwkhCANeE2EbE8x7iB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iRwkazwHxVmJ46z4QH42-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch21&lt;br&gt;Dell EMC DS-6610B&lt;br&gt;10.86.11.123&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="77.05000000000001" y="70" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="87.05000000000001" y="474" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="iRwkazwHxVmJ46z4QH42-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iRwkazwHxVmJ46z4QH42-2" target="mlTwkhCANeE2EbE8x7iB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iRwkazwHxVmJ46z4QH42-2" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch22&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;10.86.11.124&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="207.04999999999995" y="70" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="217.04999999999995" y="474" width="96.9" height="51.09" as="geometry" />
         </mxCell>
-        <mxCell id="ng30nbXUzSkcxQZglPIi-2" value="敦北" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="370" y="40" width="310" height="340" as="geometry" />
+        <mxCell id="ng30nbXUzSkcxQZglPIi-2" value="敦北（金控大樓）" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="310" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="467.04999999999995" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="147.04999999999995" y="240" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-5" target="ng30nbXUzSkcxQZglPIi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-5" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch19&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="407.05" y="70" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="87.05000000000001" y="100" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-7" target="ng30nbXUzSkcxQZglPIi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-7" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch20&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.16&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="537.05" y="70" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="217.04999999999995" y="100" width="96.9" height="51.09" as="geometry" />
         </mxCell>
-        <mxCell id="ng30nbXUzSkcxQZglPIi-20" value="敦北" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="40" width="2010" height="340" as="geometry" />
+        <mxCell id="ng30nbXUzSkcxQZglPIi-20" value="南港 （資訊中心＝期機房）" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="444" width="2010" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-21" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="490" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-23" target="ng30nbXUzSkcxQZglPIi-21">
           <mxGeometry relative="1" as="geometry" />
@@ -361,7 +361,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-23" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch19&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="804.55" y="79.45000000000005" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="504.54999999999995" y="474.00000000000006" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-25" target="ng30nbXUzSkcxQZglPIi-21">
           <mxGeometry relative="1" as="geometry" />
@@ -370,13 +370,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-25" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch20&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.16&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1064.55" y="79.44999999999999" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="764.55" y="474" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-26" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="750" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-31" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="1010" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-35" target="ng30nbXUzSkcxQZglPIi-31">
           <mxGeometry relative="1" as="geometry" />
@@ -394,7 +394,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-35" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch19&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1584.5499999999997" y="80.00000000000006" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="1284.5499999999997" y="474.00000000000006" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-38" target="ng30nbXUzSkcxQZglPIi-31">
           <mxGeometry relative="1" as="geometry" />
@@ -409,10 +409,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-38" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch20&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.16&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="80" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="2050" y="474" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-39" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="1270" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-40" target="ng30nbXUzSkcxQZglPIi-35">
           <mxGeometry relative="1" as="geometry" />
@@ -421,7 +421,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-40" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC vPlex&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="229.45000000000005" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="2050" y="633.45" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ng30nbXUzSkcxQZglPIi-41" target="ng30nbXUzSkcxQZglPIi-38">
           <mxGeometry relative="1" as="geometry" />
@@ -430,13 +430,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-41" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC vPlex&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="238.00000000000006" width="96.9" height="51.09" as="geometry" />
+          <mxGeometry x="2280" y="642" width="96.9" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-50" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="1530" y="614" width="126" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng30nbXUzSkcxQZglPIi-51" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="210" width="126" height="90" as="geometry" />
+          <mxGeometry x="1790" y="614" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-7" value="板橋（異地中心）" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="2010" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-8" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="851.55" y="240" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC vPlex&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1631.55" y="259.45000000000005" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-10" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC vPlex&lt;br&gt;172.22.143.15&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1861.5500000000002" y="268" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-11" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1111.55" y="240" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-12" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1371.55" y="240" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-13" target="sTG4PL6Yzu4bZYX9hoMD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-13" target="sTG4PL6Yzu4bZYX9hoMD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-13" target="sTG4PL6Yzu4bZYX9hoMD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-13" target="sTG4PL6Yzu4bZYX9hoMD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-13" target="sTG4PL6Yzu4bZYX9hoMD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-13" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch20&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.16&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="999.9999999999998" y="100" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-19" target="sTG4PL6Yzu4bZYX9hoMD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-19" target="sTG4PL6Yzu4bZYX9hoMD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-19" target="sTG4PL6Yzu4bZYX9hoMD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-19" target="sTG4PL6Yzu4bZYX9hoMD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-19" target="sTG4PL6Yzu4bZYX9hoMD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-19" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch20&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.16&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="100" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-25" value="南港 （資訊中心一期機房）" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_snip_rect;dx=6;fontSize=14;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="444" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-26" target="sTG4PL6Yzu4bZYX9hoMD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-26" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch21&lt;br&gt;Dell EMC DS-6610B&lt;br&gt;10.86.11.123&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2487.05" y="474" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sTG4PL6Yzu4bZYX9hoMD-27" target="sTG4PL6Yzu4bZYX9hoMD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-27" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcswitch22&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;Dell EMC DS-6610B&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;10.86.11.124&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.switch;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2617.05" y="474" width="96.9" height="51.09" as="geometry" />
+        </mxCell>
+        <mxCell id="sTG4PL6Yzu4bZYX9hoMD-30" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;kfcstorage19&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;Dell EMC Powerstore 500t&lt;br&gt;172.22.143.11&lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.12&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;172.22.143.13&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;\&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&amp;nbsp;172.22.143.14)&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.physical_storage;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2542" y="614" width="126" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
